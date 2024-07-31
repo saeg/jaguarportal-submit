@@ -1,4 +1,4 @@
-name: "jaguarportal-submit"
+name: "jaguarportal"
 description: "Submit result analysis SBFL to Jaguar Portal and report on GitHub Action and Pull Request"
 author: "ericksonlbs"
 
